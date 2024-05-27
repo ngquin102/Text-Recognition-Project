@@ -15,8 +15,6 @@ requests==2.32.2 <br>
 scikit-image==0.23.2 <br>
 scipy==1.13.1 <br>
 urllib3==2.2.1 <br>
-# or
-pip install -r requirements.txt in this project 
 # run
-python demo.py 
+''python demo.py''
 
