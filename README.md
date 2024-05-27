@@ -16,5 +16,7 @@ scikit-image==0.23.2 <br>
 scipy==1.13.1 <br>
 urllib3==2.2.1 <br>
 # run
-''' python demo.py '''
+```python
+python demo.py
+```
 
