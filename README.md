@@ -4,6 +4,7 @@ In this project, I use EasyOCR, a Python library built on top of the PyTorch fra
 # HOW TO RUN 
 # install
 We recommend the following key dependencies.<br>
+```python
 easyocr==1.7.1 <br>
 Flask==3.0.3 <br>
 Flask-RESTful==0.3.10 <br>
@@ -15,6 +16,7 @@ requests==2.32.2 <br>
 scikit-image==0.23.2 <br>
 scipy==1.13.1 <br>
 urllib3==2.2.1 <br>
+```
 # run
 ```python
 python demo.py
