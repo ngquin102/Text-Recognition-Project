@@ -5,17 +5,17 @@ In this project, I use EasyOCR, a Python library built on top of the PyTorch fra
 # install
 We recommend the following key dependencies.<br>
 ```python
-easyocr==1.7.1 <br>
-Flask==3.0.3 <br>
-Flask-RESTful==0.3.10 <br>
-numpy==1.26.4 <br>
-opencv-python-headless==4.9.0.80 <br>
-pillow==10.3.0 <br>
-PyYAML==6.0.1 <br>
-requests==2.32.2 <br>
-scikit-image==0.23.2 <br>
-scipy==1.13.1 <br>
-urllib3==2.2.1 <br>
+easyocr==1.7.1 
+Flask==3.0.3 
+Flask-RESTful==0.3.10 
+numpy==1.26.4 
+opencv-python-headless==4.9.0.80 
+pillow==10.3.0 
+PyYAML==6.0.1 
+requests==2.32.2 
+scikit-image==0.23.2 
+scipy==1.13.1 
+urllib3==2.2.1 
 ```
 # run
 ```python
